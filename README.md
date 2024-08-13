@@ -2,6 +2,8 @@
 
 Sortify is a Python script designed to automatically sort and organize files within a specified directory. By categorizing files into predefined folders based on their file types, this utility streamlines the process of managing a cluttered file system.
 
+**Note:** If you are using Windows, use the file named `file_sorter_windows.py`. If you are using macOS or Linux, use the file named `file_sorter_mac.py`.
+
 ## Features
 
 - **Automatic Folder Creation:** Creates necessary folders for various file types if they do not already exist.
