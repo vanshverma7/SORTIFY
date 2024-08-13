@@ -42,7 +42,7 @@ Sortify is a Python script designed to automatically sort and organize files wit
     ```
 3. After running, the files in the specified path will be sorted into their respective folders, making file management easier and more organized.
 
-![Example Image](Images/FINAL MESSAGE.png)
+![Example Image](Images/FINAL_MESSAGE.png)
 
 ## Customization
 
